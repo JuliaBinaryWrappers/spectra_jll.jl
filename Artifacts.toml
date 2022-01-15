@@ -1,0 +1,6 @@
+[spectra]
+git-tree-sha1 = "e665271740fc0264f82cb79ed267458403d3304a"
+
+    [[spectra.download]]
+    sha256 = "51d636009ff15f3aa9277eeb55a80af5a4841083fd83d860550e559d3c3aa00f"
+    url = "https://github.com/JuliaBinaryWrappers/spectra_jll.jl/releases/download/spectra-v1.0.0+0/spectra.v1.0.0.any.tar.gz"
