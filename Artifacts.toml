@@ -1,6 +1,6 @@
 [spectra]
-git-tree-sha1 = "e665271740fc0264f82cb79ed267458403d3304a"
+git-tree-sha1 = "83b2c50756ca8e5442e01cd798d51e8c80b7142c"
 
     [[spectra.download]]
-    sha256 = "51d636009ff15f3aa9277eeb55a80af5a4841083fd83d860550e559d3c3aa00f"
-    url = "https://github.com/JuliaBinaryWrappers/spectra_jll.jl/releases/download/spectra-v1.0.0+0/spectra.v1.0.0.any.tar.gz"
+    sha256 = "44c51f5d5e398cb6a4cd15c98544b7c28f2b826370c529f2019140003f4dca7e"
+    url = "https://github.com/JuliaBinaryWrappers/spectra_jll.jl/releases/download/spectra-v1.2.0+0/spectra.v1.2.0.any.tar.gz"
